@@ -5,7 +5,7 @@
  
 Alguns comandos bons, ~e alguns bem mais ou menos kk~, para vc tentar entender kkkk.
 
-Este bot foi feito para ajudar pessoas com comandos e ~hospedar na glitch~
+Este bot foi feito para ajudar pessoas com comandos ~e hospedar na glitch~
 
 ================================================================================
 
