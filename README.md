@@ -21,7 +21,7 @@ Aqui vão as packages:
 
 `npm i moment --save`
 
-`npm i os- --save`
+`npm i os --save`
 
 `npm i parse-ms --save`
 
