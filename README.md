@@ -8,11 +8,11 @@ Este bot foi feito para ajudar pessoas com comandos e ~hospedar na glitch~
 
 Aqui vão as packages:
                      
-npm i cpu-stat --save,
-npm i discord.js --save,
-npm i firebase --save, 
-npm i mathjs --save,
-npm i moment --save,
-npm i os- --save,
-npm i parse-ms --save,
+npm i cpu-stat --save, \n
+npm i discord.js --save, \n
+npm i firebase --save, \n
+npm i mathjs --save, \n
+npm i moment --save, \n
+npm i os- --save, \n
+npm i parse-ms --save, \n
                      
